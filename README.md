@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandprabu31
 - 👀 I’m interested in Website and webapp developing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anandprabu060@gmail.com
 
